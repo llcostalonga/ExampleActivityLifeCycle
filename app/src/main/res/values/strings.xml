@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExampleActivityLifeCycle</string>
+
+    <string-array name="operating_systems">
+        <item>Ubuntu</item>
+        <item>Android</item>
+        <item>iOS</item>
+    </string-array>
+</resources>
